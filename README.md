@@ -1,26 +1,29 @@
 # Exercícios de JavaScript
 
-Resolução dos 10 exercícios da lista **Introdução ao JavaScript**, disciplina Introdução ao Desenvolvimento Web.
+Resolução da lista de **Introdução ao JavaScript** da disciplina Introdução ao Desenvolvimento Web.
 
-## Conteúdo
+Cada questão está em seu próprio arquivo:
 
-1. Declaração e exibição de dados
-2. Calculadora simples
-3. Verificador de maioridade
-4. Dia da semana com `switch`
-5. Contagem crescente e regressiva com `for`
-6. Soma de 1 a 100 com `while`
-7. Função `ehPar(numero)`
-8. Função `calcularMedia(nota1, nota2, nota3)`
-9. Acesso a elementos e `.length` de arrays
-10. Percorrendo array com `for` tradicional
+| Questão | Arquivo | Tema |
+|---|---|---|
+| 1 | `questao01.js` | Variáveis e exibição |
+| 2 | `questao02.js` | Calculadora |
+| 3 | `questao03.js` | Maioridade |
+| 4 | `questao04.js` | Switch e dias da semana |
+| 5 | `questao05.js` | Laços for |
+| 6 | `questao06.js` | Acumulador while |
+| 7 | `questao07.js` | Função par ou ímpar |
+| 8 | `questao08.js` | Média de notas |
+| 9 | `questao09.js` | Arrays e length |
+| 10 | `questao10.js` | Percorrendo array com for |
 
 ## Como executar
 
-Instale o [Node.js](https://nodejs.org/) e execute no terminal:
+Instale o [Node.js](https://nodejs.org/) e rode uma questão por vez:
 
 ```bash
-node exercicios.js
+node questao01.js
+node questao02.js
 ```
 
-Os resultados aparecem no console. Os exemplos podem ser alterados para testar outros valores.
+Repita para os demais arquivos. O arquivo `exercicios.js` reúne todas as soluções e foi mantido como versão adicional.
