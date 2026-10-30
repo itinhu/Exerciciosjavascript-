@@ -26,4 +26,4 @@ node questao01.js
 node questao02.js
 ```
 
-Repita para os demais arquivos. O arquivo `exercicios.js` reúne todas as soluções e foi mantido como versão adicional.
+Repita para os demais arquivos.
