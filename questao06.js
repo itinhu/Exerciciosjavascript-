@@ -6,3 +6,4 @@ while (numero <= 100) {
   numero++;
 }
 console.log("Soma de 1 a 100:", soma);
+

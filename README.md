@@ -16,14 +16,3 @@ Cada questão está em seu próprio arquivo:
 | 8 | `questao08.js` | Média de notas |
 | 9 | `questao09.js` | Arrays e length |
 | 10 | `questao10.js` | Percorrendo array com for |
-
-## Como executar
-
-Instale o [Node.js](https://nodejs.org/) e rode uma questão por vez:
-
-```bash
-node questao01.js
-node questao02.js
-```
-
-Repita para os demais arquivos.

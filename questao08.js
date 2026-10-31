@@ -5,3 +5,4 @@ function calcularMedia(nota1, nota2, nota3) {
 }
 console.log("Aluno 1:", calcularMedia(8, 7, 9));
 console.log("Aluno 2:", calcularMedia(5, 6, 4));
+

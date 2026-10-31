@@ -10,3 +10,4 @@ switch (dia) {
   case 7: console.log("Sábado"); break;
   default: console.log("Erro: dia inválido");
 }
+
